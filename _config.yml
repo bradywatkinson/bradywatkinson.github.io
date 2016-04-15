@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Brady Watkinson dot com
+tagline:          'A personal website'
+description:      'This is my personal website where I post about projects, ideas and general tech stuff'
+url:              http://github.com/bradywatkinson
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Brady Watkinson'
+  url:            https://twitter.com/bradywatkinson
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/bradywatkinson/bradywatkinson.github.io
