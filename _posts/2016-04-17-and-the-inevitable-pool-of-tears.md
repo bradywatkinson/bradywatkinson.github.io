@@ -21,12 +21,12 @@ It seems start-ups like Ruby-on-Rails, bigger tech companies like Django and eve
 
 At the moment, I am leaning towards Ruby-on-Rails because it seems to be the most popular and more widely used in the area tha I would be interested in (product-based start-ups) but I will reserve judgement until I get a chance to do the basica "Hello Server" for each.
 
-The other major issue is templating and prettifying. I haven't had a chance to look into this, and I am not looking forward to it. Like many terminal programmers, fiddling with color schemes is not my idea fun
+The other major issue is templating and prettifying. I haven't had a chance to look into this, and I am not looking forward to it. Like many terminal programmers, fiddling with color schemes is not my idea fun.
 
 > "I can't do it to save my life. If I was stranded on a desert
 > island and the only way to get off was to create a pretty UI I
 > would die there"
 
-<cite>&mdash; Mark otto</cite>
+<cite>&mdash; Linus Torvald</cite>
 
-![profile](http://ichef-1.bbci.co.uk/news/660/cpsprodpb/615A/production/_88322942_24467003463_117676ca09_z.jpg "Linus Torvald at Ted 2016")
+![profile](http://ichef-1.bbci.co.uk/news/660/cpsprodpb/615A/production/_88322942_24467003463_117676ca09_z.jpg "I tend to agree with this remark")

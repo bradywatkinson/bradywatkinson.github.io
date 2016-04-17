@@ -16,10 +16,13 @@ author:
   name:           'Brady Watkinson'
   url:            https://twitter.com/bradywatkinson
 
+gems: [jekyll-paginate]
 paginate:         5
+
 
 # Custom vars
 version:          1.0.0
 
 github:
   repo:           https://github.com/bradywatkinson/bradywatkinson.github.io
+
