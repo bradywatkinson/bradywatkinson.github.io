@@ -10,7 +10,7 @@ title:            Brady Watkinson dot com
 tagline:          'A personal website'
 description:      'This is my personal website where I post about projects, ideas and general tech stuff'
 url:              http://github.com/bradywatkinson
-baseurl:          http://www.bradywatkinson.com
+baseurl:          https://www.bradywatkinson.com
 
 author:
   name:           'Brady Watkinson'
