@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Brady Watkinson dot com
 tagline:          'A personal website'
 description:      'This is my personal website where I post about projects, ideas and general tech stuff'
-url:              http://github.com/bradywatkinson
+url:              https://github.com/bradywatkinson
 baseurl:          https://www.bradywatkinson.com
 
 author:
@@ -27,4 +27,4 @@ github:
   repo:           https://github.com/bradywatkinson/bradywatkinson.github.io
 
 slack:
-  link:           http://slack.bradywatkinson.com
+  link:           https://slack.bradywatkinson.com

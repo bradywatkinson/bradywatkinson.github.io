@@ -3,17 +3,17 @@
 
 Auto naming constraints is good because it means you can reference them
 
-http://alembic.zzzcomputing.com/en/latest/naming.html#the-importance-of-naming-constraints
-http://docs.sqlalchemy.org/en/latest/core/constraints.html#configuring-constraint-naming-conventions
-http://alembic.zzzcomputing.com/en/latest/autogenerate.html#what-does-autogenerate-detect-and-what-does-it-not-detect
+https://alembic.zzzcomputing.com/en/latest/naming.html#the-importance-of-naming-constraints
+https://docs.sqlalchemy.org/en/latest/core/constraints.html#configuring-constraint-naming-conventions
+https://alembic.zzzcomputing.com/en/latest/autogenerate.html#what-does-autogenerate-detect-and-what-does-it-not-detect
 
 ## Practice
 
 Create a declarative base model with a specified metadata:
 
-http://docs.sqlalchemy.org/en/latest/orm/extensions/declarative/basic_use.html
-http://docs.sqlalchemy.org/en/latest/orm/extensions/declarative/api.html
+https://docs.sqlalchemy.org/en/latest/orm/extensions/declarative/basic_use.html
+https://docs.sqlalchemy.org/en/latest/orm/extensions/declarative/api.html
 
-Then 
+Then
 
-http://alembic.zzzcomputing.com/en/latest/naming.html#integration-of-naming-conventions-into-operations-autogenerate
+https://alembic.zzzcomputing.com/en/latest/naming.html#integration-of-naming-conventions-into-operations-autogenerate

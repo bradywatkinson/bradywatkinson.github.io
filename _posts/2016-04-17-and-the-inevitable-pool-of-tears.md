@@ -6,10 +6,10 @@ title: And the Inevitable Pool of Tears...
 
 So I have decided I wanted to start a project and I decided that I wanted it to be a web project.
 
-The only previous experience I have had with web development was a relatively simple website called [DVJudge](http://dvjudge.stanleyhon.com/) built with a relatively simple framework ([Python Flask](http://flask.pocoo.org/)). Using the magic of [Bootstrap](http://getbootstrap.com/) and [SQLite 3](https://www.sqlite.org/), we were able to get our project up and running in two weeks and using a agile sprint methodology, out the door in 4. It was a lot of fun but I did notice some limitations of the technology used:
+The only previous experience I have had with web development was a relatively simple website called [DVJudge](https://dvjudge.stanleyhon.com/) built with a relatively simple framework ([Python Flask](https://flask.pocoo.org/)). Using the magic of [Bootstrap](https://getbootstrap.com/) and [SQLite 3](https://www.sqlite.org/), we were able to get our project up and running in two weeks and using a agile sprint methodology, out the door in 4. It was a lot of fun but I did notice some limitations of the technology used:
 
 - The website was not responsive
-- The database was very hard to maintain (we probably should have used [Alchemy...](http://flask-sqlalchemy.pocoo.org/2.1/))
+- The database was very hard to maintain (we probably should have used [Alchemy...](https://flask-sqlalchemy.pocoo.org/2.1/))
 - I like Python, but not that much
 - Flask is not as universal
 
@@ -29,4 +29,4 @@ The other major issue is templating and prettifying. I haven't had a chance to l
 
 <cite>&mdash; Linus Torvald</cite>
 
-![profile](http://ichef-1.bbci.co.uk/news/660/cpsprodpb/615A/production/_88322942_24467003463_117676ca09_z.jpg "I tend to agree with this remark")
+![profile](https://ichef-1.bbci.co.uk/news/660/cpsprodpb/615A/production/_88322942_24467003463_117676ca09_z.jpg "I tend to agree with this remark")
